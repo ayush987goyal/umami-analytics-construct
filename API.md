@@ -28,7 +28,7 @@ __Extends__: [Construct](#aws-cdk-core-construct)
 
 
 ```ts
-new UmamiAnalyticsConstruct(parent: Construct, name: string, props: UmamiAnalyticsConstructProps)
+new UmamiAnalyticsConstruct(parent: Construct, name: string, props?: UmamiAnalyticsConstructProps)
 ```
 
 * **parent** (<code>[Construct](#aws-cdk-core-construct)</code>)  *No description*
