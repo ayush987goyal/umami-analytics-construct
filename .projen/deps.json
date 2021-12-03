@@ -2,7 +2,7 @@
   "dependencies": [
     {
       "name": "@aws-cdk/assert",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "build"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "name": "@types/node",
-      "version": "^10.17.0",
+      "version": "^14.17.0",
       "type": "build"
     },
     {
@@ -25,16 +25,12 @@
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
-      "version": "^4.3.0",
+      "version": "^5",
       "type": "build"
     },
     {
       "name": "@typescript-eslint/parser",
-      "version": "^4.3.0",
-      "type": "build"
-    },
-    {
-      "name": "eslint",
+      "version": "^5",
       "type": "build"
     },
     {
@@ -50,12 +46,17 @@
       "type": "build"
     },
     {
+      "name": "eslint",
+      "version": "^8",
+      "type": "build"
+    },
+    {
       "name": "jest",
       "type": "build"
     },
     {
       "name": "jest-junit",
-      "version": "^12",
+      "version": "^13",
       "type": "build"
     },
     {
@@ -79,13 +80,17 @@
       "type": "build"
     },
     {
+      "name": "npm-check-updates",
+      "version": "^11",
+      "type": "build"
+    },
+    {
       "name": "projen",
-      "version": "^0.16.2",
       "type": "build"
     },
     {
       "name": "standard-version",
-      "version": "^9.0.0",
+      "version": "^9",
       "type": "build"
     },
     {
@@ -94,7 +99,6 @@
     },
     {
       "name": "typescript",
-      "version": "^3.9.5",
       "type": "build"
     },
     {
@@ -104,47 +108,47 @@
     },
     {
       "name": "@aws-cdk/aws-cloudfront-origins",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-cloudfront",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-ec2",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-ecs-patterns",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-ecs",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-lambda",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/aws-rds",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/core",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
       "name": "@aws-cdk/custom-resources",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "peer"
     },
     {
@@ -154,47 +158,47 @@
     },
     {
       "name": "@aws-cdk/aws-cloudfront-origins",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-cloudfront",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-ec2",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-ecs-patterns",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-ecs",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-lambda",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-rds",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/core",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/custom-resources",
-      "version": "^1.73.0",
+      "version": "^1.129.0",
       "type": "runtime"
     }
   ],
