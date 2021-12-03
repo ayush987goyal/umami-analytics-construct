@@ -1,16 +1,12 @@
 const { AwsCdkConstructLibrary } = require('projen');
-
 const project = new AwsCdkConstructLibrary({
   author: 'Ayush Goyal',
   authorAddress: 'ayush987goyal@gmail.com',
   cdkVersion: '1.129.0',
   defaultReleaseBranch: 'main',
-  jsiiFqn: 'projen.AwsCdkConstructLibrary',
   name: 'umami-analytics-construct',
   repositoryUrl:
     'https://github.com/ayush987goyal/umami-analytics-construct.git',
-
-  /* AwsCdkConstructLibraryOptions */
   cdkAssert: true,
   cdkDependencies: [
     '@aws-cdk/aws-cloudfront',
@@ -26,5 +22,4 @@ const project = new AwsCdkConstructLibrary({
   bundledDeps: ['pg@^8.5.1'],
   devDeps: ['@types/aws-lambda', '@types/pg@^7.14.8'],
 });
-
 project.synth();
