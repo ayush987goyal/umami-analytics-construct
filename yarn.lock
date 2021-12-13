@@ -1446,10 +1446,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@types/aws-lambda@^8.10.86":
-  version "8.10.86"
-  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.86.tgz#f97d9e2f75f87b03401bcd19737b025ec08de200"
-  integrity sha512-CH7MtDqW8hAm05alc837XHvqKcrfx/kacc4EyUoyN5PoFK3D0lIfN0GK2WsV6YKU4tUsLTLAVLSyBrcFdHP9Bw==
+"@types/aws-lambda@^8.10.87":
+  version "8.10.87"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.87.tgz#5e90af2d4ffb41d3bf9c97080a5c4700ddf06436"
+  integrity sha512-fMYSgnIjFsTM3huCzqNvZm9gH4kFY5yIEOKYj9VtTG13TYd+wwweTbYAAO8OclcTbpezK+VsHNWIyHiAHgVCJg==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.14":
   version "7.1.17"
@@ -4669,10 +4669,10 @@ jsii-diff@^1.47.0:
     typescript "~3.9.10"
     yargs "^16.2.0"
 
-jsii-docgen@^4.2.11:
-  version "4.2.11"
-  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-4.2.11.tgz#c4609b82cef95456b6444decac2df760988db643"
-  integrity sha512-Fp3qhVOkuahxzGzTPyQG6CGAOFDMLILKQSnuByliCkQi/oSS3f9cBY5N0V7aZfCx0ovNzVxC75f6g7GbwVhYMw==
+jsii-docgen@^4.2.13:
+  version "4.2.13"
+  resolved "https://registry.yarnpkg.com/jsii-docgen/-/jsii-docgen-4.2.13.tgz#3c4de9741bfa2ba9507067aec9452bf16a4a9c1a"
+  integrity sha512-oYZU5p4+y08WI59GBf4MIsNmEpmLdSLWGiE7dPBqDUgsqLC74iUtJxCZRRGxnl4W6oUDSLK58+4Pa8Swgmz3+A==
   dependencies:
     "@jsii/spec" "^1.47.0"
     case "^1.6.3"
