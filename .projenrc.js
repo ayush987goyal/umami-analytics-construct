@@ -26,7 +26,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   devDeps: ['@types/aws-lambda', '@types/pg@^7.14.8'],
 
   autoApproveOptions: {
-    allowedUsernames: ['auyush987goyal-automation'],
+    allowedUsernames: ['ayush987goyal-automation'],
     secret: 'GITHUB_TOKEN',
   },
   autoApproveUpgrades: true,
